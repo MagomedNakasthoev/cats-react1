@@ -11,7 +11,6 @@ export const Navbar = () => {
         <div className='nav-title-text'>Cats</div>
       </h3>
         </Link>    
-
       <div className='navbar-right-part'>
         <div className='navbar-links'>
           <Link className='navbar-link' to={"/favorites"}>
