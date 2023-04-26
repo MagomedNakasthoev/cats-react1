@@ -7,7 +7,7 @@ export const Navbar = () => {
     <div className='navbar-container'>
       <Link className='navbar-link' to={"/"}>
       <h3 className='navbar-title'>
-      <span class="material-symbols-outlined navbar-title-icon">pets</span>
+      <span className='material-symbols-outlined navbar-title-icon'>pets</span>
         <div className='nav-title-text'>Cats</div>
       </h3>
         </Link>    
